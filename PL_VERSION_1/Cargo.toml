@@ -1,0 +1,7 @@
+[package]
+name = "gbook"
+version = "0.1.0"
+authors = ["Rafał Kotusiewicz <rk@buzzlers.com>"]
+edition = "2018"
+
+[dependencies]
